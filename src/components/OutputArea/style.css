@@ -1,0 +1,16 @@
+.output-area {
+  width: 45%;
+  margin-bottom: 10px;
+}
+
+.output-text {
+  background: #ffdd67;
+  color: #4a4a4a;
+  width: 100%;
+  min-height: 300px;
+  padding: 10px;
+  margin: 0px;
+  box-shadow: 10px 10px #646464;
+  text-align: start;
+  font-size: 0.8rem;
+}

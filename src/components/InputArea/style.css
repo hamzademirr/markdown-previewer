@@ -1,0 +1,18 @@
+.input-area {
+  width: 45%;
+  margin-bottom: 30px;
+}
+
+textarea {
+  background: #ffdd67;
+  color: #4a4a4a;
+  width: 100%;
+  min-height: 100%;
+  padding: 10px;
+  margin: 0;
+  border: none;
+  resize: none;
+  outline: none;
+  box-shadow: 10px 10px #646464;
+  font-size: 0.8rem;
+}
